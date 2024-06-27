@@ -1,13 +1,13 @@
 # power-bi-dashboard for electrical vehicle analysis 
 given data in table- city, state, postal code, model year, brand, model name, EV type(battery electric vehicle or plug-in hybrid ev), CAFV eligibility, electric range,, base msrp,legislative district, dol vehicle id, vehicle location, electric utility.
-KPI's maded-
+KPI's created-
               * total vehicles- by measure 
               *avg electric range-created by measure 
               * total BEV %- created by dax formula and measure
               *total BEV- by dax
               *total PHEV %- by dax
               *total PHEV- by dax
-Charts maded-
+Charts created-
              *Total vehicles by model year (from 2010 onwards)- by lin chart, it 
                      will illustrate the distribution of electric vehicle over the 
                      year start from 2010, providing insights into growth and 
